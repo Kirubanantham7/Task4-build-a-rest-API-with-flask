@@ -10,7 +10,7 @@ A simple RESTful API built using Python and Flask to perform CRUD operations on 
 
 🚀 Flask Running
 -----------------
-![Flask App Running](images/f1.png)
+![Flask App Running](images/f3.png)
 
 📬 Postman Test
 ----------------
