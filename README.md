@@ -26,7 +26,7 @@ A simple RESTful API built using Python and Flask to perform CRUD operations on 
 
 flask-user-api/
 │
-├── main.py # Main Flask app
+├── app.py # Main Flask app
 ├── README.md # Project readme
 └── images/ # Screenshots
 ├── flask-running.png
